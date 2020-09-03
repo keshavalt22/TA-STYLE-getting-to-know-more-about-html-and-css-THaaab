@@ -1,0 +1,45 @@
+body {
+background-color: cadetblue;
+padding: 20px;
+}
+nav {
+    text-align: right;
+    padding: 10px;
+    font-size: 18px;
+}
+nav a {
+    margin-left: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+}
+div {
+    text-align: center;
+    padding: 60px;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 25px;
+}
+p {
+    font-size: 18px;
+}
+.a1{
+    font-size: 20px;
+    color: black;
+}
+.nav1{
+    text-align: left;
+}
+.btn{
+    background-color: green;
+}
+.body1{
+    background-color: darkturquoise;
+}
+header{
+    text-align: center;
+}
