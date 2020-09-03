@@ -2,9 +2,6 @@ body {
 background-color: cadetblue;
 padding: 20px;
 }
-div {
-    text-align: center;
-}
 nav {
     text-align: right;
     padding: 10px;
@@ -34,6 +31,15 @@ p {
     font-size: 20px;
     color: black;
 }
+.nav1{
+    text-align: left;
+}
 .btn{
     background-color: green;
+}
+.body1{
+    background-color: darkturquoise;
+}
+header{
+    text-align: center;
 }
