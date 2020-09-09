@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+}
+nav{
+    text-align: right;
+    margin-left: 20px;
+}
+.Button{
+    text-align: left;
+}
+.body1{
+    background-color: khaki;
+}
+.body2{background-color: teal;
+
+}
+h1{
+    font-size: 40px;
+}
+div{
+    font-size: 22px;
+}
+button{
+    background-color: rgb(93, 93, 216);
+    color: black;
+}
